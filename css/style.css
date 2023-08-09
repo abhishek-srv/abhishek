@@ -1105,10 +1105,10 @@ h3.my-profession {
 .wrapper .github:hover .tooltip:before{
     background: #333;
 }
-.wrapper .youtube:hover span,
-.wrapper .youtube:hover .tooltip,
-.wrapper .youtube:hover .tooltip:before{
-    background: #DE463B;
+.wrapper .whatsapp:hover span,
+.wrapper .whatsapp:hover .tooltip,
+.wrapper .whatsapp:hover .tooltip:before{
+    background: #12ac55;
 }
 /* social media button ends  */
 
